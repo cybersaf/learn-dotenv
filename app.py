@@ -3,8 +3,8 @@ import os
 
 load_dotenv()
 
-k = os.getenv('OPENAI_KEY')
-print(k)
+key = os.getenv('OPENAI_KEY')
+print(key)
 
 
 
